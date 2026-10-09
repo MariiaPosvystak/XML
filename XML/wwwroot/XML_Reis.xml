@@ -1,0 +1,333 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<reisid>
+	<reis>
+		<suund>
+			<riik>Itaalia</riik>
+			<kestvus>7</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Roomas</majutus>
+		<ekskursioonid>Colosseum ja Vatikani muuseumid</ekskursioonid>
+		<muudKulud>220</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Prantsusmaa</riik>
+			<kestvus>5</kestvus>
+		</suund>
+		<transport>Auto</transport>
+		<majutus>Hostel Pariisis</majutus>
+		<ekskursioonid>Eiffeli torn ja Louvre'i muuseum</ekskursioonid>
+		<muudKulud>250</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Hispaania</riik>
+			<kestvus>10</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Apartement Barcelonas</majutus>
+		<ekskursioonid>Sagrada Família ja Park Güell</ekskursioonid>
+		<muudKulud>300</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Saksamaa</riik>
+			<kestvus>4</kestvus>
+		</suund>
+		<transport>Buss</transport>
+		<majutus>Hostel Berliinis</majutus>
+		<ekskursioonid>Berliini müüri jälgedel jalgsi</ekskursioonid>
+		<muudKulud>120</muudKulud>
+		<hinnang>7</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Kreeka</riik>
+			<kestvus>8</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Santorinil</majutus>
+		<ekskursioonid>Akropol ja saarte laevasõit</ekskursioonid>
+		<muudKulud>280</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Portugal</riik>
+			<kestvus>6</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hostel Lissabonis</majutus>
+		<ekskursioonid>Belému torn ja Sintra lossid</ekskursioonid>
+		<muudKulud>180</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Holland</riik>
+			<kestvus>3</kestvus>
+		</suund>
+		<transport>Rong</transport>
+		<majutus>Hostel Amsterdamis</majutus>
+		<ekskursioonid>Kanalite laevasõit ja Van Goghi muuseum</ekskursioonid>
+		<muudKulud>200</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Austria</riik>
+			<kestvus>5</kestvus>
+		</suund>
+		<transport>Rong</transport>
+		<majutus>Hotell Viinis</majutus>
+		<ekskursioonid>Schönbrunni loss ja oopereid</ekskursioonid>
+		<muudKulud>230</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Tšehhi</riik>
+			<kestvus>4</kestvus>
+		</suund>
+		<transport>Buss</transport>
+		<majutus>Hostel Prahas</majutus>
+		<ekskursioonid>Praha loss ja Karli sild</ekskursioonid>
+		<muudKulud>110</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Poola</riik>
+			<kestvus>3</kestvus>
+		</suund>
+		<transport>Buss</transport>
+		<majutus>Hostel Krakowis</majutus>
+		<ekskursioonid>Auschwitzi muuseum ja soolakaevandus</ekskursioonid>
+		<muudKulud>90</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Rootsi</riik>
+			<kestvus>3</kestvus>
+		</suund>
+		<transport>Praam</transport>
+		<majutus>Hotell Stockholmis</majutus>
+		<ekskursioonid>Vasa muuseum ja Gamla Stan</ekskursioonid>
+		<muudKulud>210</muudKulud>
+		<hinnang>7</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Soome</riik>
+			<kestvus>2</kestvus>
+		</suund>
+		<transport>Praam</transport>
+		<majutus>Hotell Helsingis</majutus>
+		<ekskursioonid>Suomenlinna kindlus</ekskursioonid>
+		<muudKulud>100</muudKulud>
+		<hinnang>7</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Norra</riik>
+			<kestvus>7</kestvus>
+		</suund>
+		<transport>Laev</transport>
+		<majutus>Kajut Lofootidel</majutus>
+		<ekskursioonid>Fjordide kruiis ja põhjavalgus</ekskursioonid>
+		<muudKulud>400</muudKulud>
+		<hinnang>10</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Island</riik>
+			<kestvus>6</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Külalistemaja Reykjavíkis</majutus>
+		<ekskursioonid>Kuldne ring ja Sinine laguun</ekskursioonid>
+		<muudKulud>450</muudKulud>
+		<hinnang>10</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Šveits</riik>
+			<kestvus>5</kestvus>
+		</suund>
+		<transport>Rong</transport>
+		<majutus>Hostel Luzernis</majutus>
+		<ekskursioonid>Jungfraujochi rongisõit</ekskursioonid>
+		<muudKulud>350</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Horvaatia</riik>
+			<kestvus>9</kestvus>
+		</suund>
+		<transport>Auto</transport>
+		<majutus>Apartement Dubrovnikus</majutus>
+		<ekskursioonid>Dubrovniku vanalinn ja Plitvice järved</ekskursioonid>
+		<muudKulud>240</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Türgi</riik>
+			<kestvus>8</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Istanbulis</majutus>
+		<ekskursioonid>Hagia Sophia ja Bosporuse kruiis</ekskursioonid>
+		<muudKulud>200</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Egiptus</riik>
+			<kestvus>7</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Kairos</majutus>
+		<ekskursioonid>Giza püramiidid ja Niiluse kruiis</ekskursioonid>
+		<muudKulud>260</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Maroko</riik>
+			<kestvus>6</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Riad Marrakechis</majutus>
+		<ekskursioonid>Medina ja Sahara kõrbeöö</ekskursioonid>
+		<muudKulud>190</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Jaapan</riik>
+			<kestvus>12</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Tokyos</majutus>
+		<ekskursioonid>Fuji mägi ja Kyoto templid</ekskursioonid>
+		<muudKulud>700</muudKulud>
+		<hinnang>10</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Tai</riik>
+			<kestvus>10</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Bungalo Phuketis</majutus>
+		<ekskursioonid>Saarte paadisõit ja elevantide varjupaik</ekskursioonid>
+		<muudKulud>320</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Vietnam</riik>
+			<kestvus>9</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hostel Hanois</majutus>
+		<ekskursioonid>Ha Longi laht ja Hoi An</ekskursioonid>
+		<muudKulud>250</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Indoneesia</riik>
+			<kestvus>11</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Villa Bali saarel</majutus>
+		<ekskursioonid>Riisiterrassid ja Ubudi apid</ekskursioonid>
+		<muudKulud>350</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Ameerika Ühendriigid</riik>
+			<kestvus>10</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell New Yorgis</majutus>
+		<ekskursioonid>Vabadussammas ja Central Park</ekskursioonid>
+		<muudKulud>800</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Kanada</riik>
+			<kestvus>8</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hostel Vancouveris</majutus>
+		<ekskursioonid>Banffi rahvuspark ja Niagara joad</ekskursioonid>
+		<muudKulud>600</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Mehhiko</riik>
+			<kestvus>9</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Méxicos</majutus>
+		<ekskursioonid>Chichén Itzá ja Teotihuacán</ekskursioonid>
+		<muudKulud>300</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Brasiilia</riik>
+			<kestvus>10</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hostel Rio de Janeiros</majutus>
+		<ekskursioonid>Kristuse kuju ja Copacabana</ekskursioonid>
+		<muudKulud>420</muudKulud>
+		<hinnang>8</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Peruu</riik>
+			<kestvus>8</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Külalistemaja Cuscos</majutus>
+		<ekskursioonid>Machu Picchu matk</ekskursioonid>
+		<muudKulud>380</muudKulud>
+		<hinnang>10</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Austraalia</riik>
+			<kestvus>14</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Hotell Sydneys</majutus>
+		<ekskursioonid>Ooperimaja ja Suur Vallrahu</ekskursioonid>
+		<muudKulud>900</muudKulud>
+		<hinnang>9</hinnang>
+	</reis>
+	<reis>
+		<suund>
+			<riik>Uus-Meremaa</riik>
+			<kestvus>12</kestvus>
+		</suund>
+		<transport>Lennuk</transport>
+		<majutus>Autokodu</majutus>
+		<ekskursioonid>Hobbitiküla ja fjordide kruiis</ekskursioonid>
+		<muudKulud>750</muudKulud>
+		<hinnang>10</hinnang>
+	</reis>
+</reisid>
